@@ -1,0 +1,6 @@
+{
+  "name": "BulkBet",
+  "description": "Bulk sports betting booking code loader and multi-ticket automated wager batch execution engine in Nigerian Naira (₦).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
